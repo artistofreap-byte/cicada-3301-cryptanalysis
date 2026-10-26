@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local backup script
+Script1_backup.py
+
+# Local generated research report
+master_report.txt
+# Local alternate research script
+master_report.txt.py
